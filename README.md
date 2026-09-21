@@ -6,7 +6,7 @@ Ember & Spice is a fictional contemporary Malaysian restaurant concept created a
 
 ## Live Demo
 
-**Coming soon**
+[View Live Demo](https://ember-spice-restaurant-template.vercel.app)
 
 ## Key features
 
